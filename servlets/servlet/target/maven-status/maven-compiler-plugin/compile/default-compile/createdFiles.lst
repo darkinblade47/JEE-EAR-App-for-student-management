@@ -1,0 +1,8 @@
+monitorizare/MonitorThread.class
+DeleteStudentServlet.class
+UpdateStudentServlet.class
+SetParametersServlet.class
+ProcessStudentServlet.class
+ProcessBankOperationServlet.class
+FetchStudentListServlet.class
+FindStudentServlet.class
